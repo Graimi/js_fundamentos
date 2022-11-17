@@ -21,5 +21,5 @@ console.log(`El precio del metro para ${city} es de ${price} euros`)
 var removeChar = 'eloquent'
 
 function removeChar(str){
-  return `#{removeChar.slice(1,7)}`;
+  return `${removeChar.slice(1,7)}`;
 }

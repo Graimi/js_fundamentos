@@ -3,7 +3,7 @@ const promise = new Promise((resolve, reject) => {
 //Esta parte antes de indicar resolve o reject es lo que se muestra
     console.log('Promesa ejecutándose!'); 
 // A partir de lo que se escriba debajo de resolve o reject no vale para nada
-    resolve('Resuleta');
+    resolve('Resuelta');
 })  
 
 console.log('Este codigo se ejecuta antes que la Promise!');

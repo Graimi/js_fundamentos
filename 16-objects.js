@@ -19,7 +19,7 @@ delete person.age;
 // Hacer el mismo proceso que añadir datos y se sobreescribe
 
 // Claves dinámicas
-function getKey(objet, key) {
+function getKey(object, key) {
     return object[key]
 }
 

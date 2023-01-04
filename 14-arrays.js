@@ -14,7 +14,7 @@ console.log(`La nota del primer alumno es ${marks[0]}`);
 
 // Añadir elementos al array
 marks.unshift(3); // Al principio [3, 4, 4, 6, 9, 4, 6, 7]
-marks. push(8); // Al final [3, 4, 4, 6, 9, 4, 6, 8]
+marks.push(8); // Al final [3, 4, 4, 6, 9, 4, 6, 8]
 
 // Eliminar elementos del array
 marks.shift(); // Al principio [4, 4, 6, 9, 4, 6, 7, 8]
